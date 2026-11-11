@@ -1,0 +1,10 @@
+{
+  "source_url": "https://github.com/mattpocock/skills/blob/main/skills/engineering/tdd/SKILL.md",
+  "retrieved_via": "sanctioned source-control file read; no clone",
+  "ref": "main at retrieval; immutable commit SHA not captured",
+  "content_sha256": "5505d25bbaa8fc14a79e4d20163936958992a2995b7f1dd1d6197edc9ed722e0",
+  "license": "MIT; notice included",
+  "review_scope": "Actual single SKILL.md and repository license read; dependent references/scripts not blanket-audited",
+  "execution": "No upstream code/installers executed; no real-task performance evaluation",
+  "not_an_installation_recommendation": true
+}

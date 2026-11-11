@@ -1,0 +1,313 @@
+[
+  {
+    "artifact": "extensions/coding/EXTENSION.md",
+    "category": "original generalized extension",
+    "redistribution": "included",
+    "license": "MIT for authored extension; upstream source notices retained",
+    "original_base_skill": "NOT redistributed; rights not established for full personal baseline",
+    "source_provenance": [
+      "https://github.com/mattpocock/skills/blob/main/skills/engineering/tdd/SKILL.md",
+      "https://x.com/i/status/2090840747738374568",
+      "https://x.com/i/status/2107826459804840072",
+      "https://x.com/i/status/2056319284641460626",
+      "https://x.com/i/status/2068468824421364103",
+      "https://code.claude.com/docs/en/permissions"
+    ]
+  },
+  {
+    "artifact": "motion-design extension",
+    "category": "omitted from this drop",
+    "redistribution": "EXCLUDED — ownership unresolved; the file is not in this repository and is not offered for use",
+    "license": "Not established for redistribution in this drop",
+    "original_base_skill": "NOT redistributed",
+    "source_provenance": [
+      "https://github.com/oso95/scroll-world/blob/main/skills/scroll-world/SKILL.md",
+      "https://skills.wheresryan.sh/anatomy"
+    ],
+    "limitations": "The selected MIT scroll-world reference remains in upstream-references/; the motion-design extension patch itself is omitted."
+  },
+  {
+    "artifact": "extensions/ui-ux-pro-max/EXTENSION.md",
+    "category": "original generalized extension",
+    "redistribution": "included",
+    "license": "MIT for authored extension; upstream source notices retained",
+    "original_base_skill": "NOT redistributed; rights not established for full personal baseline",
+    "source_provenance": [
+      "https://mobbin.com/mcp",
+      "https://styles.refero.design/",
+      "https://easyui.site/",
+      "https://www.scrolltide.co/",
+      "https://x.com/i/status/2051689159723458746",
+      "https://x.com/i/status/2032069817621200989",
+      "https://docs.expo.dev/router/advanced/native-tabs/"
+    ]
+  },
+  {
+    "artifact": "extensions/seo-programmatic/EXTENSION.md",
+    "category": "original generalized extension",
+    "redistribution": "included",
+    "license": "MIT for authored extension; upstream source notices retained",
+    "original_base_skill": "NOT redistributed; rights not established for full personal baseline",
+    "source_provenance": [
+      "https://x.com/i/status/2108611232609825021",
+      "https://developers.google.com/search/docs/essentials/spam-policies#scaled-content"
+    ]
+  },
+  {
+    "artifact": "extensions/seo-plan/EXTENSION.md",
+    "category": "original generalized extension",
+    "redistribution": "included",
+    "license": "MIT for authored extension; upstream source notices retained",
+    "original_base_skill": "NOT redistributed; rights not established for full personal baseline",
+    "source_provenance": [
+      "https://github.com/coreyhaines31/marketingskills/blob/main/skills/product-marketing/SKILL.md",
+      "https://github.com/coreyhaines31/marketingskills/blob/main/skills/ab-testing/SKILL.md",
+      "https://x.com/i/status/2050523761481285898"
+    ]
+  },
+  {
+    "artifact": "skills/bookmark-knowledge-curator/SKILL.md",
+    "category": "original generalized workflow",
+    "redistribution": "included",
+    "license": "MIT",
+    "original_base_skill": null,
+    "source_provenance": [
+      "Design developed from archive/provenance and retrieval failures; no article body copied"
+    ]
+  },
+  {
+    "artifact": "upstream-references/mattpocock-skills/SOURCE.md",
+    "category": "upstream selected reference, not autoloaded",
+    "redistribution": "included with notice",
+    "license": "MIT",
+    "license_file": "upstream-references/mattpocock-skills/LICENSE.txt",
+    "source_provenance": [
+      "https://github.com/mattpocock/skills/blob/main/skills/engineering/tdd/SKILL.md"
+    ],
+    "limitations": "Only this actual file and license reviewed; repository/scripts/dependencies not comprehensively audited."
+  },
+  {
+    "artifact": "upstream-references/oso95-scroll-world/SOURCE.md",
+    "category": "upstream selected reference, not autoloaded",
+    "redistribution": "included with notice",
+    "license": "MIT",
+    "license_file": "upstream-references/oso95-scroll-world/LICENSE.txt",
+    "source_provenance": [
+      "https://github.com/oso95/scroll-world/blob/main/skills/scroll-world/SKILL.md"
+    ],
+    "limitations": "Only this actual file and license reviewed; repository/scripts/dependencies not comprehensively audited."
+  },
+  {
+    "artifact": "upstream-references/coreyhaines31-ab-testing/SOURCE.md",
+    "category": "upstream selected reference, not autoloaded",
+    "redistribution": "included with notice",
+    "license": "MIT",
+    "license_file": "upstream-references/coreyhaines31-ab-testing/LICENSE.txt",
+    "source_provenance": [
+      "https://github.com/coreyhaines31/marketingskills/blob/main/skills/ab-testing/SKILL.md"
+    ],
+    "limitations": "Only this actual file and license reviewed; repository/scripts/dependencies not comprehensively audited."
+  },
+  {
+    "artifact": "upstream-references/coreyhaines31-product-marketing/SOURCE.md",
+    "category": "upstream selected reference, not autoloaded",
+    "redistribution": "included with notice",
+    "license": "MIT",
+    "license_file": "upstream-references/coreyhaines31-product-marketing/LICENSE.txt",
+    "source_provenance": [
+      "https://github.com/coreyhaines31/marketingskills/blob/main/skills/product-marketing/SKILL.md"
+    ],
+    "limitations": "Only this actual file and license reviewed; repository/scripts/dependencies not comprehensively audited."
+  },
+  {
+    "artifact": "excluded category",
+    "category": "Raw/private bookmark exports and account metadata",
+    "redistribution": "EXCLUDED",
+    "license": "Not established or private; no inference of permission",
+    "source_provenance": []
+  },
+  {
+    "artifact": "excluded category",
+    "category": "Full X/article/page bodies, media and unlicensed copied excerpts",
+    "redistribution": "EXCLUDED",
+    "license": "Not established or private; no inference of permission",
+    "source_provenance": []
+  },
+  {
+    "artifact": "excluded category",
+    "category": "Personal skill originals, synced/vendor/example baselines and unknown-license bundles",
+    "redistribution": "EXCLUDED",
+    "license": "Not established or private; no inference of permission",
+    "source_provenance": []
+  },
+  {
+    "artifact": "excluded category",
+    "category": "Private app-engine agents, pipeline, project/client/brand/taste data",
+    "redistribution": "EXCLUDED",
+    "license": "Not established or private; no inference of permission",
+    "source_provenance": []
+  },
+  {
+    "artifact": "excluded category",
+    "category": "Machine paths, configuration, installation receipts, backups and personal version ledger",
+    "redistribution": "EXCLUDED",
+    "license": "Not established or private; no inference of permission",
+    "source_provenance": []
+  },
+  {
+    "artifact": "upstream-references/coreyhaines31-marketing-loops/",
+    "category": "inspected compatible upstream reference",
+    "redistribution": "included: SOURCE.md, loop-state.md, loop-guardrails.md and original MIT notice",
+    "license": "MIT — Copyright (c) 2025 Corey Haines",
+    "source_provenance": [
+      "https://github.com/coreyhaines31/marketingskills/blob/main/skills/marketing-loops/SKILL.md"
+    ],
+    "scope_limit": "All other dependencies and repository contents not redistributed or blanket-audited."
+  },
+  {
+    "artifact": "data/portal.json: resource-* notes",
+    "category": "33original generalized editorial resource paraphrases and static critique",
+    "redistribution": "included; no full source bodies, commercial assets, proprietary examples or article snippets redistributed",
+    "license": "MIT for our authored analysis only; no license is asserted for linked source assets or code",
+    "source_provenance": [
+      "https://landdding.com/",
+      "https://wonderlist.design/",
+      "https://land-book.com/",
+      "https://supahero.io/",
+      "https://footer.design/",
+      "https://60fps.design/",
+      "https://cta.gallery/",
+      "https://backgrounds.supply/",
+      "https://monid.ai/",
+      "https://minimal.gallery/",
+      "https://component.gallery/",
+      "https://mobbin.com/",
+      "https://designmd.ai/",
+      "https://ui.shadcn.com/",
+      "https://ui.aceternity.com/",
+      "https://magicui.design/",
+      "https://motion-primitives.com/",
+      "https://mapcn.dev/",
+      "https://awwwards.com/",
+      "https://circleloaders.dominikakissi.com/",
+      "https://3dicons.co/",
+      "https://animejs.com/",
+      "https://theclaudekit.com/",
+      "https://oryzo.ai/",
+      "https://polymarket.com/@nsh91qaz?via=cvxv666",
+      "https://www.theatrejs.com/",
+      "https://threejs.org/",
+      "https://anijs.github.io/",
+      "https://iconifyai.com/",
+      "https://restorephotos.io/",
+      "https://synthesia.io/",
+      "https://you.com/",
+      "https://kinetics.colorion.co/"
+    ],
+    "limitations": "Entire captured text read; linked subpages/library assets and runtime behavior not comprehensively audited. Vendor free/CC0/copyright/format claims remain source claims unless explicitly independently checked."
+  },
+  {
+    "artifact": "skills/make-audit-push/SKILL.md, README.md, and references/",
+    "category": "Original generalized orchestration and usage documentation",
+    "redistribution": "included",
+    "license": "MIT original authoring; no proprietary baseline copied",
+    "source_provenance": [
+      "Explicit generic workflow authoring request; discover/brief/design/build/audit/test/fix/approved push"
+    ],
+    "limitations": "Version 2.2.0 with supporting reference files. No external source bodies, personal paths/receipts/configuration or installed state included. No real-task performance tested."
+  },
+  {
+    "artifact": "skills/no-ai-slop/",
+    "category": "Third-party skill redistributed under MIT with local additions",
+    "redistribution": "included",
+    "license": "MIT; LICENSE (Peter Yang) and references/humanizer-LICENSE.txt (Siqi Chen) retained",
+    "source_provenance": [
+      "https://github.com/petergyang/no-ai-slop @000650b",
+      "https://github.com/blader/humanizer @0ef9fe5"
+    ],
+    "limitations": "Not behavior-tested."
+  },
+  {
+    "artifact": "skills/security-audit/",
+    "category": "Third-party skill vendored unchanged",
+    "redistribution": "included",
+    "license": "MIT; LICENSE (Cloudflare, Inc.) retained; PROVENANCE.md added",
+    "source_provenance": [
+      "https://github.com/cloudflare/security-audit-skill @c1c8a8c"
+    ],
+    "limitations": "Not behavior-tested."
+  },
+  {
+    "artifact": "extensions/ui-ux-pro-max/EXTENSION.md (Anti-slop design floor)",
+    "category": "original paraphrase",
+    "redistribution": "included",
+    "license": "MIT for authored text; attribution per references/NOTICE-anti-slop-sources.md (MIT, Apache-2.0, CC BY 4.0)",
+    "source_provenance": [
+      "https://github.com/Nutlope/hallmark @407fa68",
+      "https://github.com/pbakaus/impeccable @cddc34c",
+      "https://github.com/heydamir/unslop @97daa3e"
+    ],
+    "limitations": "No upstream files copied."
+  },
+  {
+    "artifact": "extensions/coding/EXTENSION.md (Smallest complete change)",
+    "category": "original paraphrase",
+    "redistribution": "included",
+    "license": "MIT; references/ponytail-LICENSE.txt retained",
+    "source_provenance": [
+      "https://github.com/DietrichGebert/ponytail @96608e0"
+    ],
+    "limitations": "No upstream files copied."
+  },
+  {
+    "artifact": "skills/prompt-doctor/SKILL.md",
+    "category": "original standalone workflow",
+    "redistribution": "included",
+    "license": "MIT",
+    "source_provenance": [
+      "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-2",
+      "https://x.com/i/status/2120501801313267818",
+      "https://x.com/i/status/2120187587209896001",
+      "https://x.com/i/status/2120316341492068383"
+    ],
+    "limitations": "Official Anthropic guide and X posts paraphrased; no source text copied beyond short phrases."
+  },
+  {
+    "artifact": "skills/blender-asset-pipeline/SKILL.md",
+    "category": "original standalone workflow",
+    "redistribution": "included",
+    "license": "MIT",
+    "source_provenance": [
+      "https://github.com/ahujasid/mcp-for-blender,",
+      "https://x.com/i/status/2117215758472073446,",
+      "https://x.com/i/status/2120222728707776595",
+      "https://x.com/i/status/2120454553216651660."
+    ],
+    "limitations": "Official Anthropic guide and X posts paraphrased; no source text copied beyond short phrases."
+  },
+  {
+    "artifact": "extensions/coding/EXTENSION.md (Code ownership and honest change reports (v6)",
+    "category": "original paraphrase",
+    "redistribution": "included",
+    "license": "MIT",
+    "source_provenance": [
+      "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-2",
+      "https://x.com/i/status/2120501801313267818",
+      "https://x.com/i/status/2120316341492068383."
+    ],
+    "limitations": "No upstream files copied."
+  },
+  {
+    "artifact": "extensions/ui-ux-pro-max/EXTENSION.md (Component-kit sourcing (v3.1)",
+    "category": "original paraphrase",
+    "redistribution": "included",
+    "license": "MIT",
+    "source_provenance": [
+      "https://github.com/Atharvsinh-codez/ObsidianUI",
+      "https://x.com/i/status/2120427191976800509",
+      "https://x.com/i/status/2120193558464635300",
+      "https://x.com/i/status/2120542627393360030"
+    ],
+    "limitations": "No upstream files copied."
+  }
+]

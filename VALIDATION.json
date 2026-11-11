@@ -1,0 +1,23 @@
+{
+  "status": "pass",
+  "public_record_details_tested": 150,
+  "tests": [
+    "Embedded JSON parses",
+    "All section navigation/details",
+    "Search no-results/reset",
+    "Safe URL protocols",
+    "No CDN/remote scripts or fetch",
+    "Source rendered text-only",
+    "MIT reference hashes/notices",
+    "Generic token scan; private-marker scan is a separate offline review",
+    "No symlinks"
+  ],
+  "not_tested": [
+    "Real browser layout/keyboard/screen reader",
+    "Narrow viewport",
+    "Actual Claude task performance",
+    "Actual installation",
+    "Publication"
+  ],
+  "privacy_scope": "Known private-marker and token-pattern scan plus explicit allowlist export; not a guarantee against every conceivable sensitive inference."
+}

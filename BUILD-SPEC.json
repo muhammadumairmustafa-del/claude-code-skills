@@ -1,0 +1,13 @@
+{
+  "input": "data/portal.json",
+  "output": "index.html",
+  "privacy_boundary": "This folder only; no private archive, external accounts or personal install state",
+  "standalone_skills": 6,
+  "extension_patches": 4,
+  "upstream_selected_reference_documents": 5,
+  "public_source_notes": 100,
+  "dependencies": [],
+  "network_required": false,
+  "automatic_installation": false,
+  "publication_status": "Public repository tree prepared; push is a separate approved action"
+}

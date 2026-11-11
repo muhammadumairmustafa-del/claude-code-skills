@@ -1,0 +1,10 @@
+{
+  "status": "pass",
+  "method": "Explicit allowlist original notes/extensions and selected licensed source files; known private identity/path/ID marker scan; common secret-format scan; no raw archive/private receipt/engine payload included",
+  "files_scanned": 86,
+  "known_private_marker_matches": 0,
+  "credential_pattern_matches": 0,
+  "limitations": "Not a proof against all contextual inference or unknown secret formats. Linked external source authors remain publicly attributed. Third-party full catalog assets/source bodies excluded. Full coding and ui-ux-pro-max baselines omitted because redistribution rights were not established. motion-design omitted because ownership is unresolved. /theme is not in this drop.",
+  "public_skill_records": 10,
+  "source_notes": 100
+}

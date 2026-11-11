@@ -1,0 +1,9 @@
+{
+  "repository": "https://github.com/coreyhaines31/marketingskills",
+  "source_path": "skills/marketing-loops/SKILL.md",
+  "license": "MIT, copyright 2025 Corey Haines",
+  "captured_at": "2026-11-07T23:55:53.805629+03:00",
+  "reference_only": true,
+  "review_scope": "Actual source skill, loop-state and loop-guardrails plus license read. Catalog, orchestration, operator references, scripts and other dependencies not audited. Do not install from this reference copy. Example scheduling commands/legal summaries not independently verified.",
+  "sha256": "b0eaff215a74bde6493f2339f697320c4ffc3ba49caf7ae719626b6026282e05"
+}
